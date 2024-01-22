@@ -1,4 +1,4 @@
-# THIS A CHANGE Assignment 01-stars-get-started-reproducible-science
+# THIS'S A CHANGE Assignment 01-stars-get-started-reproducible-science
 
 This repository contains specifications and instructions for an Earth Data Science workflow in Python. You should see your username at the end of the name of the repository - if so, you can edit these files as much as you need! Your task:
   1. **Fork** this repository (`Fork` button on the upper left).
